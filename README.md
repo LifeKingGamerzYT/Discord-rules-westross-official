@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://i.imgur.com/6Lqo7kt.png" width="128px" style="max-width:100%;">
-    <h1>Discord Rules - Clan WESTROSS</h1>
+    <h1>Discord Rules - CLAN WESTROSS</h1>
 </div>
 
 **#1:** Be respectful to everyone.
