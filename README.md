@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://i.imgur.com/p9kh4Pc.png" width="128px" style="max-width:100%;">
-    <h1>Discord Rules - Team Ujjwal</h1>
+    <img src="https://i.imgur.com/6Lqo7kt.png" width="128px" style="max-width:100%;">
+    <h1>Discord Rules - Clan WESTROSS</h1>
 </div>
 
 **#1:** Be respectful to everyone.
@@ -28,8 +28,4 @@
 
 **#12:** **Follow**: - Discord [Terms of Service](https://dis.gd/tos) and [Community Guidelines](https://dis.gd/guidelines).
  
-**#13:** **Ban Appeal**: [Click here to appeal](http://bit.ly/BANappealUjjwal).
- 
-**#14:** **Moderation Guidelines**: [Click here to know more](http://bit.ly/MODactionUjjwal).
-
 > *Everything doesn't need to be mentioned in rules you need to use common sense as well. We expect all the members to be humble and respectful towards each other as well as welcoming towards the new members.*
