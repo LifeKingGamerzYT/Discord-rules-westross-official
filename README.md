@@ -45,7 +45,7 @@
 
 **4 - Advertisement**
 
-:small_blue_diamond: 4.1 - Using content or sending messages in the server, that advertise or solicit, either explicitly or implicitly, any non-beneficial, organizations, websites, or services, or that provide direct links to said external resources except <#881932800901668931>, <#881932800901668932>, <#881932800901668933> ,<#881932801174278164>, <#881932801174278165>.
+:small_blue_diamond: 4.1 - Using content or sending messages in the server, that advertise or solicit, either explicitly or implicitly, any non-beneficial, organizations, websites, or services, or that provide direct links to said external resources except #881932800901668931 , <#881932800901668932>, <#881932800901668933> ,<#881932801174278164>, <#881932801174278165>.
 
 **5 - Threats & Insults**
 
