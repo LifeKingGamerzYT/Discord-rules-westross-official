@@ -77,7 +77,7 @@ Voice channels are not actively monitored. Members are free to make use of the b
 
 :small_blue_diamond: 7.5 - Antagonizing or encouraging members to violate the guidelines, or purposefully attempting to get a specific member punished.
 
-:small_blue_diamond: 7.6 - Discussing moderators' decisions and actions, or discussing disciplinary actions taken against a member, in public. (Complaints or reports regarding moderators' behavior may be sent privately to an @ :man_detective:〢𒆜 Management  or @ :man_construction_worker_tone1: 〢𒆜 Admin or @ :man_with_chinese_cap: 〢𒆜 Staffs .)
+:small_blue_diamond: 7.6 - Discussing moderators' decisions and actions, or discussing disciplinary actions taken against a member, in public. (Complaints or reports regarding moderators' behavior may be sent privately to an @👷🏻‍♂️ 〢𒆜 Admin or @👨‍💻 〢𒆜 Moderators or @👲 〢𒆜 Staffs .)
 
 **8 - Terms of Service**
 
